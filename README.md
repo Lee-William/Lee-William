@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there, I am William 👋🏼
 
-- 🇩🇪 I am a cloud-native consultant from Singapore
+- 🇸🇬 I am a cloud-native consultant from Singapore
 - 🔷 I have been working on cloud native tech stack since 2018
 - 🐳 I do quite a bunch of containers & avid supporter of public cloud
 - ☸️ Kubernetes is my passion
