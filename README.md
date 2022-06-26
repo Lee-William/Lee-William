@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there, I am William 👋🏼
+
+- 🇩🇪 I am a cloud-native consultant from Singapore
+- 🔷 I have been working on cloud native tech stack since 2018
+- 🐳 I do quite a bunch of containers
+- ☸️ Kubernetes is my passion
+- 🌤 AWS is my data-center
+- I love 💞 my girls
+- I play ⚽️ and 🏃🏻‍♂️ in my spare time
+
+## Currently Learning
+
+- 🦀 Go programming language & Sparks
+
+
+## Get in touch
+
+Reach out [LinkedIn]([https://linkedin.com/in/lee-](https://www.linkedin.com/in/williamleesg).
+
+_last update_: Sun, 26 Jun 2022
