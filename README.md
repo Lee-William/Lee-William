@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 ## Get in touch
 
-Reach out [LinkedIn](https://www.linkedin.com/in/williamleesg).
+Find me on [LinkedIn](https://www.linkedin.com/in/williamleesg).
 
 _last update_: Sun, 26 Jun 2022
